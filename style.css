@@ -1,5 +1,5 @@
 body {
-background: url("stripes.png"); url("background.jpg"), #52596b;
+background: url("http://videomultiverse.org/Images/stripes.png"); url("http://videomultiverse.org/Images/background.jpg"), #52596b;
 background-repeat: repeat-x, no-repeat;
 font-size: 26px;
 font-family: helvetica, arial, sans-serif;
@@ -11,7 +11,7 @@ line-height: 32px;
 }
 
 h1 {
-	background: url("logo-taasky.png");
+	background: url("http://videomultiverse.org/Images/logo-taasky.png");
 	background-repeat: no-repeat;
 	display: black
 	width: 147px
@@ -28,7 +28,7 @@ hr {
 }
 
 a {
-	background: url("btn_store.png");
+	background: url("http://videomultiverse.org/Images/btn_store.png");
 	background-repeat: no-repeat;
 	display: block;
 	width: 246px;
